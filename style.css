@@ -1,0 +1,109 @@
+
+h1 {
+  text-align: center;
+  border: 3px solid black;
+  width: 600px;
+  margin: auto;
+  font-size: 50px;
+  border-radius: 50px;
+  text-shadow: 2px 2px 8px white;
+  //text-shadow: 0 0 3px #FF0000;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: "Times New Roman", Times, serif;
+  //font-family: Arial, Helvetica, sans-serif;
+  //background-color:orange ;
+  background-image: linear-gradient(to bottom right, aqua, blue, aqua);
+  color: yellow;
+  word-spacing: normal;
+}
+
+
+
+
+h3 {
+  background-image: linear-gradient(to right, blue, aqua);
+  color: white;
+  padding: 6px;
+  text-shadow: 2px 2px 4px #000000;
+  //border:7px solid black;
+  border-style: groove;
+  text-indent: 15px;
+  // border-radius:0px 0px 50px 50px 
+
+
+}
+
+
+
+h4 {
+  text-indent: 9px;
+  font-size: 20px;
+
+margin-left:10px;
+}
+
+
+/*para gharph*/
+
+
+p {
+  //margin-top: -25px;
+  margin-left:20px;
+  font-family:arial;
+  
+}
+
+p.object {
+ 
+  line-height: 1.6;
+  text-align: justify;
+  text-justify: inter-word
+  font-family:arial
+}
+
+li {
+  line-height: 1.7
+}
+
+
+a {
+  text-decoration: none
+}
+
+
+
+/*Div box*/
+
+
+div {
+  background-color: #F0F8FF;
+  padding: 20px;
+  width:1000px;
+  margin: auto;
+  border: 3px double black;
+  border-radius: 10px
+}
+
+table {
+  width: 100%
+}
+
+td {
+  text-align: center;
+  FONT-SIZE:40PX;
+  color: red;
+  background-color: rgb(28, 54, 76);
+  color: transparent;
+  text-shadow: 0px 2px 3px rgba(255,255,255,0.5);
+  -webkit-background-clip: text;
+     -moz-background-clip: text;
+          background-clip: text;
+  }
+
+
+
+
+span.right{float:right; margin-right:80px}
+
+
+img.p{width:200px;height:200px;float:right;Margin-top:-170px}
